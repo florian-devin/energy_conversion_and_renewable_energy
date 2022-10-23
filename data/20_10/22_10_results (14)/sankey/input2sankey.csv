@@ -1,0 +1,34 @@
+source,target,realValue,layerID,layerColor,layerUnit
+Gasoline,Mobility private,6.45,Gasoline,#808080,TWh
+Diesel,Mobility private,7.65,Diesel,#D3D3D3,TWh
+Diesel,Mobility public,1.21,Diesel,#D3D3D3,TWh
+Natural gas,Mobility public,0.16,Natural gas,#FFD700,TWh
+Natural gas,Hydrogen,2.80,Natural gas,#FFD700,TWh
+Natural gas,Heat pumps,5.58,Natural gas,#FFD700,TWh
+Natural gas,Boilers,15.80,Natural gas,#FFD700,TWh
+Nuclear,Electricity,39.68,Nuclear,#FFC0CB,TWh
+Hydro dam,Electricity,17.47,Hydro dam,#00CED1,TWh
+Hydro river,Electricity,16.11,Hydro river,#0000FF,TWh
+Solar,Heat LT dec,0.95,Solar,#FFFF00,TWh
+Waste,Boilers,10.26,Waste,#808000,TWh
+Oil,Boilers,11.41,Oil,#8B008B,TWh
+Wood,Biofuels,12.28,Wood,#CD853F,TWh
+Electricity,Mobility private,2.85,Electricity,#00BFFF,TWh
+Electricity,Mobility public,3.15,Electricity,#00BFFF,TWh
+Electricity,Freight,0.98,Electricity,#00BFFF,TWh
+Electricity,Losses electricity,5.14,Electricity,#00BFFF,TWh
+Electricity,Electricity demand,30.35,Electricity,#00BFFF,TWh
+Electricity,Heat pumps,11.75,Electricity,#00BFFF,TWh
+Electricity,Hydrogen,11.48,Electricity,#00BFFF,TWh
+Electricity,Heat LT dec,4.96,Electricity,#00BFFF,TWh
+Electricity,Heat HT,2.80,Electricity,#00BFFF,TWh
+Hydrogen,Mobility private,2.70,Hydrogen,#FF00FF,TWh
+Hydrogen,Mobility public,2.30,Hydrogen,#FF00FF,TWh
+Hydrogen,Freight,3.78,Hydrogen,#FF00FF,TWh
+Heat pumps,Heat LT dec,43.92,Heat LT,#FA8072,TWh
+Biofuels,Electricity,0.20,Electricity,#00BFFF,TWh
+Biofuels,Oil,8.19,Oil,#8B008B,TWh
+Boilers,Heat LT dec,21.36,Heat LT,#FA8072,TWh
+Boilers,Heat HT,11.20,Heat HT,#DC143C,TWh
+DHN,Heat LT DHN,7.91,Heat LT,#FA8072,TWh
+DHN,Losses DHN,0.42,Heat LT,#FA8072,TWh
